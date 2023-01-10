@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstApiApp", "MyFirstApiApp\MyFirstApiApp.csproj", "{9464FF5E-5370-4F8B-97F8-7224DD7A6090}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstApiApp", "MyFirstApiApp\MyFirstApiApp.csproj", "{9464FF5E-5370-4F8B-97F8-7224DD7A6090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebApp", "MyFirstWebApp\MyFirstWebApp.csproj", "{7863ECFF-D6E4-4DDB-A645-B747FF4427B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9464FF5E-5370-4F8B-97F8-7224DD7A6090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9464FF5E-5370-4F8B-97F8-7224DD7A6090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9464FF5E-5370-4F8B-97F8-7224DD7A6090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7863ECFF-D6E4-4DDB-A645-B747FF4427B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7863ECFF-D6E4-4DDB-A645-B747FF4427B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7863ECFF-D6E4-4DDB-A645-B747FF4427B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7863ECFF-D6E4-4DDB-A645-B747FF4427B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
